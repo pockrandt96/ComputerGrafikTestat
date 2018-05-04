@@ -1,1 +1,4 @@
-sceneSetups: []
+sceneSetups:
+- path: Assets/Kanten Filter Scene.unity
+  isLoaded: 1
+  isActive: 1
