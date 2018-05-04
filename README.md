@@ -1,3 +1,2 @@
 # ComputerGrafikTestat
 
-#test
