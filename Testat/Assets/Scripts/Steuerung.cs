@@ -15,6 +15,7 @@ public class Steuerung : MonoBehaviour {
     private Vector3 moveDirection = Vector3.zero;
 
     void Update() {
+	Cursor.lockState = CursorLockMode.Locked;
 	
  
         CharacterController controller = GetComponent<CharacterController>();
