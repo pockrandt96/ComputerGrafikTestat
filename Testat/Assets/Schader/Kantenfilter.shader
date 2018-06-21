@@ -65,9 +65,10 @@
 
             float _Factor;
 
-	    float a;
-float b;
-float c;
+	    //float a;
+	    //float b;
+	    //float c;
+
             // FRAGMENT SHADER
             half4 frag (v2f i) : SV_Target
             {
