@@ -63,13 +63,13 @@ Material:
     - _GlossMapScale: 1
     - _Glossiness: 0.5
     - _GlossyReflections: 1
-    - _K1: 5
-    - _K2: 5
+    - _K1: 1.69
+    - _K2: 1.82
     - _Metallic: 0
     - _Mode: 0
     - _OcclusionStrength: 1
-    - _P1: 0
-    - _P2: 0
+    - _P1: 1.12
+    - _P2: -1.48
     - _Parallax: 0.02
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1

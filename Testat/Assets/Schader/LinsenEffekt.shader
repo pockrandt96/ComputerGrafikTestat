@@ -1,6 +1,6 @@
 ﻿// Upgrade NOTE: replaced 'texRECT' with 'tex2D'
 
-Shader "Unlit/Kantenfilter"
+Shader "Unlit/LinsenEffekt"
 {
 	Properties {
 		_K1("K1", Range(-5, 5)) = 0

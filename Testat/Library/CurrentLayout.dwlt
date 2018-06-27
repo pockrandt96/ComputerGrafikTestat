@@ -367,9 +367,9 @@ MonoBehaviour:
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 86280000
-    m_LastClickedID: 10374
-    m_ExpandedIDs: 0000000086280000f02b0000802c00004e2d00007e3400008034000082340000843400008634000000ca9a3bffffff7f
+    m_SelectedIDs: a2280000
+    m_LastClickedID: 10402
+    m_ExpandedIDs: 00000000a22800000c2c00009e2c00006c2d000096340000983400009a3400009c3400009e34000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -397,7 +397,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 0000000086280000f02b0000802c00004e2d00007e34000080340000823400008434000086340000
+    m_ExpandedIDs: 00000000a22800000c2c00009e2c00006c2d000096340000983400009a3400009c3400009e340000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -424,7 +424,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c6230000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -513,9 +513,9 @@ MonoBehaviour:
     height: 391
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 
+    m_SelectedIDs: 642c0000
     m_LastClickedID: 0
-    m_ExpandedIDs: f6d5ffff9cfbffff000000004c3100008236000076370000
+    m_ExpandedIDs: d0c6ffff88d8fffff8e9ffff84fbffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -531,7 +531,7 @@ MonoBehaviour:
       m_IsRenaming: 0
       m_OriginalEventType: 11
       m_IsRenamingFilename: 0
-      m_ClientGUIView: {fileID: 0}
+      m_ClientGUIView: {fileID: 4}
     m_SearchString: 
   m_ExpandedScenes:
   - Sepia Filter Scene
@@ -570,9 +570,9 @@ MonoBehaviour:
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 11.2079735, y: -4.2598133, z: 0.23375702}
+    m_Target: {x: -16.687185, y: -13.837098, z: 36.248093}
     speed: 2
-    m_Value: {x: 11.2079735, y: -4.2598133, z: 0.23375702}
+    m_Value: {x: -16.687185, y: -13.837098, z: 36.248093}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -595,13 +595,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: -0.24603227, y: 0.5069819, z: -0.15367386, w: -0.8116784}
+    m_Target: {x: 0.16176891, y: -0.33400398, z: 0.05830156, w: 0.92675406}
     speed: 2
-    m_Value: {x: -0.24603227, y: 0.5069819, z: -0.15367386, w: -0.8116784}
+    m_Value: {x: -0.16176893, y: 0.33400398, z: -0.058301564, w: -0.92675406}
   m_Size:
-    m_Target: 21.140774
+    m_Target: 72.975914
     speed: 2
-    m_Value: 21.140774
+    m_Value: 72.975914
   m_Ortho:
     m_Target: 0
     speed: 2
