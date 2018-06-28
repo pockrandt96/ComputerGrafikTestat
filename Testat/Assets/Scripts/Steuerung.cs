@@ -70,6 +70,10 @@ public class Steuerung : MonoBehaviour {
             Quaternion yQuaternion = Quaternion.AngleAxis (-rotationY, Vector3.right);
             transform.localRotation = originalRotation * yQuaternion;
         }
+
+ 	if (Input.GetKeyDown(KeyCode.Escape)){
+                Cursor.lockState = CursorLockMode.None;
+	    }
     }
     public static float ClampAngle (float angle, float min, float max)
     {
